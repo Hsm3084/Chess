@@ -1,0 +1,21 @@
+int num[] = {1, 2, 3, 4, 5, 6, 7, 8};
+Char char[] = {a, b, c, d, e, f, g, h};
+String King = king
+String Queen = queen
+String Rook1 = rook1
+String Rook2 = rook2
+String Bishop1 = bishop1
+String Bishop2 = bishop2
+String Knight1 = knight1
+String Knight2 = knight2
+String Pawn1 = pawn1
+String Pawn2 = pawn2
+String Pawn2 = pawn2
+String Pawn3 = pawn3
+String Pawn4 = pawn4
+String Pawn5 = pawn5
+String Pawn6 = pawn6
+String Pawn6 = pawn6
+String Pawn7 = pawn7
+String Pawn8 = pawn8
+int scan.next
